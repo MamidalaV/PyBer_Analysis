@@ -20,7 +20,8 @@
    
    ### Statistical Visulization of Ride Count, Ride Fare & Driver Count (Summary View):
    
-   ![Ride_count](https://user-images.githubusercontent.com/74985818/113462989-928c4600-93f1-11eb-9721-718a17ecb885.png) ![Ride_Fare](https://user-images.githubusercontent.com/74985818/113462991-94eea000-93f1-11eb-9079-60f176d7fb9e.png) ![driver_count](https://user-images.githubusercontent.com/74985818/113462998-9ddf7180-93f1-11eb-9665-ce6c72e144bb.png)
+   <img src="https://user-images.githubusercontent.com/74985818/113462989-928c4600-93f1-11eb-9721-718a17ecb885.png" width="300">  <img src="https://user-images.githubusercontent.com/74985818/113462991-94eea000-93f1-11eb-9079-60f176d7fb9e.png" width="300"> <img src = "https://user-images.githubusercontent.com/74985818/113462998-9ddf7180-93f1-11eb-9665-ce6c72e144bb.png" width=300>
+   
   
   ## For further analysis, for each city type, No. of rides, No. of drivers, sum of fares, average fare per ride, average fare per driver have been retreived
 
