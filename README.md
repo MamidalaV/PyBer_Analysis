@@ -45,7 +45,7 @@
    
    ![5_avg_fare_per_driver](https://user-images.githubusercontent.com/74985818/113463316-21e62900-93f3-11eb-824c-3d22cc709649.png)
    
-   ### Additionally, a new Summary DataFrame has been created along and cleaned in order to generate a pivot.
+   ### Additionally, a new Summary DataFrame has been created and cleaned in order to generate a pivot.
    
    - Summary DataFrame:
    
@@ -54,6 +54,11 @@
    - cleaned DataFrame to remove index:
    
    ![7_clean_df](https://user-images.githubusercontent.com/74985818/113463393-74bfe080-93f3-11eb-9c41-22bbfdafeb2f.png)
+   
+   - and formatted:
+
+  ![formatted](https://user-images.githubusercontent.com/74985818/113463847-645d3500-93f6-11eb-8b8b-095dc4650b8d.png)
+
 
   ### The data within the new dataframe has been resampled to get weekly a snapshot and used to generate the final line graph.
   
@@ -63,4 +68,10 @@
 
 # SUMMARY:
 
-  ## 
+  ## Based on the above analysis, the below 3 conclusions can be drawn.(Recommendations)
+  
+   ### 1. There are very few riders in Rural cities and they are having to spend a lot more money per ride than other city types. Reducing the prices in these cities would encourage more people taking pyber rides and hence increase the driver count.
+
+   ### 2. The Urban cities fare is the highest and consistent, giving us great and new business opportunities to expand rides.
+
+   ### 3. The Rural cities fare is lower than the other two city types and fares never intersect. Knowing this, we can expand fares and increase revenue without affecting our rate.
