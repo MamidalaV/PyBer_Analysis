@@ -5,13 +5,9 @@
 
 # RESULTS:
   ## Two datasets have been used for this analysis:
-  1. City Data:
+  City Data and Ride Data
     
-   ![city_df](https://user-images.githubusercontent.com/74985818/113456477-577f1800-93db-11eb-98b2-878955e27360.png)
-
-  2. Ride Data: 
-  
-   ![ride_df](https://user-images.githubusercontent.com/74985818/113456491-5e0d8f80-93db-11eb-97e5-975e035dc24e.png)
+   ![city_df](https://user-images.githubusercontent.com/74985818/113456477-577f1800-93db-11eb-98b2-878955e27360.png) ![ride_df](https://user-images.githubusercontent.com/74985818/113456491-5e0d8f80-93db-11eb-97e5-975e035dc24e.png)
    
   - These have been combined to generate a new DataFrame:
   ![merged](https://user-images.githubusercontent.com/74985818/113462244-fdd41900-93ed-11eb-8634-3e92f2f52c77.png)
@@ -22,18 +18,10 @@
    ![Fig1](https://user-images.githubusercontent.com/74985818/113462727-560c1a80-93f0-11eb-916f-6a1cf125c7c9.png)
 
    
-   ### Statistical Visulization:
+   ### Statistical Visulization of Ride Count, Ride Fare & Driver Count (Summary View):
    
-   Ride Count Data:
-   
-   ![Ride_count](https://user-images.githubusercontent.com/74985818/113462671-0e858e80-93f0-11eb-8e60-d46f44996dd8.png)
-   
-   Ride Fare Data:
-   
-   ![Ride_Fare](https://user-images.githubusercontent.com/74985818/113462675-147b6f80-93f0-11eb-8e9a-a08794a31531.png)
-   
-   Driver Count Data:
-   
-   ![driver_count](https://user-images.githubusercontent.com/74985818/113462679-1b09e700-93f0-11eb-80b7-648c64e765e2.png)
+   ![Ride_count](https://user-images.githubusercontent.com/74985818/113462989-928c4600-93f1-11eb-9721-718a17ecb885.png) ![Ride_Fare](https://user-images.githubusercontent.com/74985818/113462991-94eea000-93f1-11eb-9079-60f176d7fb9e.png) ![driver_count](https://user-images.githubusercontent.com/74985818/113462998-9ddf7180-93f1-11eb-9665-ce6c72e144bb.png)
+  
+
 
 # SUMMARY:
